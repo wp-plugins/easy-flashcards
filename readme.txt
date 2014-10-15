@@ -1,7 +1,8 @@
 === Easy Flashcards===
 Contributors: Sage Sony
 Tags: flashcard,flash,card,flip,animation,language,vocabulary,learn,memory
-Donate link: 
+Donate link:
+Author URI: https://profiles.wordpress.org/sagesony
 Requires at least: 3.7
 Tested up to: 4.0
 Stable tag: 0.1
@@ -10,7 +11,7 @@ Easy Flashcard Plugin allows you to easily create,design and manage flashcards f
 
 == Description ==
 
-Easy Flashcards is a plugin which allows you to create, design and manage flashcards through your Wordpress dashboard. It allows you to easily add, delet and edit Flashcards.It also allows you to design your own flashcard through the admin pane. On creating, it generates a Shortcode which on putting in any of your posts or pages,displays a wonderful series of flashcards. These flashcards flips to show their backside on mouse hover.
+Easy Flashcards is a plugin which allows you to create, design and manage flashcards through your Wordpress dashboard. It allows you to easily add, delete and edit Flashcards.It also allows you to design your own flashcard through the admin panel. On creating, it generates a Shortcode which on putting in any of your posts or pages,displays a wonderful series of flashcards. These flashcards flip to show their backside on mouse hover.
 
 == Installation ==
 
