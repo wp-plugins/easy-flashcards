@@ -1,7 +1,8 @@
 === Easy Flashcards===
 Contributors: Sage Sony
 Tags: flashcard,flash,card,flip,animation,language,vocabulary,learn,memory
-Donate link: 
+Donate link:
+Author URI: https://profiles.wordpress.org/sagesony
 Requires at least: 3.7
 Tested up to: 4.0
 Stable tag: 0.1
